@@ -1,0 +1,31 @@
+Los Angeles Lakers
+PLAYER	MIN	FGM	FGA	FG%	3PM	3PA	3P%	FTM	FTA	FT%	OREB	DREB	REB	AST	STL	BLK	TO	PF	PTS	+/-
+LeBron James F 34:25	8	15	53.3	1	1	100	2	6	33.3	1	8	9	8	0	0	6	2	19	13
+Jake LaRavia F 26:45	3	5	60.0	0	2	0.0	1	1	100	0	1	1	2	0	0	3	2	7	4
+Deandre Ayton C 14:49	2	5	40.0	0	0	0.0	0	0	0.0	1	7	8	0	0	0	0	1	4	-1
+Marcus Smart G 31:15	4	9	44.4	3	6	50.0	4	5	80.0	1	1	2	1	0	0	0	2	15	6
+Luka Doncic G 35:39	12	21	57.1	3	9	33.3	11	12	91.7	0	13	13	10	2	0	3	2	38	-2
+Rui Hachimura 28:15	4	13	30.8	1	3	33.3	0	0	0.0	3	3	6	1	1	0	0	2	9	-2
+Jaxson Hayes 22:52	4	5	80.0	0	0	0.0	1	4	25.0	1	4	5	0	0	2	0	2	9	16
+Gabe Vincent 17:28	1	2	50.0	1	2	50.0	2	3	66.7	0	0	0	0	0	0	0	3	5	3
+Jarred Vanderbilt 17:47	0	2	0.0	0	1	0.0	0	0	0.0	1	3	4	2	0	0	0	1	0	-2
+Drew Timme 10:45	4	6	66.7	1	1	100	0	1	0.0	2	1	3	0	0	0	0	1	9	5
+Kobe Bufkin DNP - Coach's Decision
+Bronny James DNP - Coach's Decision
+Maxi Kleber DNP - Coach's Decision
+Dalton Knecht DNP - Coach's Decision
+TOTALS 42	83	50.6	10	25	40.0	21	32	65.6	10	41	51	24	3	2	12	18	115	8
+Denver Nuggets
+PLAYER	MIN	FGM	FGA	FG%	3PM	3PA	3P%	FTM	FTA	FT%	OREB	DREB	REB	AST	STL	BLK	TO	PF	PTS	+/-
+Spencer Jones F 36:47	6	9	66.7	4	7	57.1	0	0	0.0	0	5	5	0	1	1	1	5	16	6
+Peyton Watson F 37:45	7	17	41.2	4	8	50.0	0	0	0.0	1	4	5	3	3	1	3	3	18	-6
+Aaron Gordon C 31:51	6	9	66.7	2	4	50.0	4	8	50.0	1	3	4	5	0	0	0	1	18	-8
+Jalen Pickett G 26:14	3	9	33.3	1	2	50.0	0	0	0.0	1	5	6	4	1	0	0	2	7	-4
+Jamal Murray G 36:05	10	21	47.6	4	8	50.0	4	4	100	0	2	2	11	0	0	1	2	28	-3
+Tim Hardaway Jr.  30:43	2	12	16.7	0	8	0.0	6	7	85.7	0	2	2	2	1	3	0	3	10	0
+Zeke Nnaji 18:35	3	4	75.0	0	0	0.0	0	0	0.0	1	2	3	0	0	2	0	2	6	-4
+Bruce Brown 22:00	2	6	33.3	0	0	0.0	0	0	0.0	1	3	4	2	0	0	0	3	4	-21
+DaRon Holmes II DNP - Coach's Decision
+Julian Strawther DNP - Coach's Decision
+Hunter Tyson DNP - Coach's Decision
+TOTALS 39	87	44.8	15	37	40.5	14	19	73.7	5	26	31	27	6	7	5	21	107	-8
